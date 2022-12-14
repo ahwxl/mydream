@@ -27,7 +27,7 @@
 
 		<!-- Dependency Version Properties -->
 		<springboot.version>1.5.15.RELEASE</springboot.version>
-		<snakeyaml.version>1.31</snakeyaml.version>
+		<snakeyaml.version>1.32</snakeyaml.version>
 		<modelmapper.version>0.7.7</modelmapper.version>
 		<jackson.version>2.9.2</jackson.version>
 		<sofa.version>2.4.4</sofa.version>
